@@ -1,6 +1,6 @@
 {
-  "name": "Mechanics Guide",
-  "short_name": "Mechanics",
+  "name": "Iqra",
+  "short_name": "Iqra",
   "description": "A digital learning platform for civil engineering students.",
   "start_url": "./index.html",
   "scope": "./",
